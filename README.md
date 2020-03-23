@@ -5,7 +5,7 @@
 - [Challenge 1 - CricAnalytics](./challenge-1)
 
 ## How to provide solution?
-Raise a PR under each challenge folder with your github username as the foldername/filename. eg. `challenge-1/movingtoweb/README.md`, `challenge-1/movingtoweb/Solution.java1`
+Raise a PR under each challenge folder with your github username as the foldername/filename. eg. `challenge-1/movingtoweb/README.md`, `challenge-1/movingtoweb/Solution.java`
 
 ## Whats the format?
 Based on the challenge you can provide a solution of your choice.
