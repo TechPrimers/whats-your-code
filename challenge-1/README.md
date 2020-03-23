@@ -71,8 +71,8 @@ ScoreBoard {
 - You are going to use Design Patterns and Clean coding standards to create a production like code.
 
 ## Things to consider
-- You can use any Java 8+ version or Python 3+.
+- You can use any Java 8+  or Python 3+ version for creating the solution.
 
 # Solutions from Community
-Name      |   Solution      | Comments 
-----      | ----            | ----
+Name      | Language   |  Solution      | Comments 
+----      | ----       |  ----          | ----
